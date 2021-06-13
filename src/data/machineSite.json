@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "locationId":"machine1",
+        "name":"Phuoc Son - Tuy Phuoc",
+        "status":"Open",
+        "gps":{
+            "latitude":13.868802,
+            "longtitude":109.217737
+        }
+    },
+    {
+        "id":2,
+        "locationId":"machine1",
+        "name":"Phuoc Quang - Tuy Phuoc",
+        "status":"Open",
+        "image":"../assets/rice.png",
+        "gps":{
+            "latitude":13.8976642,
+            "longtitude":109.1637498
+        }
+    }
+]
